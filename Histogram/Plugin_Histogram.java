@@ -1,10 +1,3 @@
-
-/* 
-Equipo: 
-        Diana Laura Ballesteros Valenzuela
-        Jose Pablo Medrano Ibarra
-
-*/
 import ij.ImagePlus;
 import ij.plugin.filter.PlugInFilter;
 import ij.process.ByteProcessor;
